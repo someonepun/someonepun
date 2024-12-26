@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm Niraj</h1>
 
 - I’m Product Designer, who also loves to code. (Started with code as my journey, later completed my 5yrs in design, now I am doing both :D)
-- Currently learning MERN stack. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
