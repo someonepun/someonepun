@@ -8,8 +8,6 @@ I'm currently pursuing <strong>Bioinformatics</strong>, with a keen interest in 
 I enjoy blending biology with code to explore the possibilities of data-driven health solutions, molecular research, and bio-product design.
 </p>
 
----
-
 ### 🧪 Technologies & Tools
 
 - 💻 Python | R | Bash | Git
@@ -18,15 +16,11 @@ I enjoy blending biology with code to explore the possibilities of data-driven h
 - 📊 Data Visualization | Streamlit | Jupyter
 - 🌱 Currently learning: Machine Learning for Bioinformatics
 
----
-
 ### 📌 Upcomming Projects
 
 - 🧫 Drug discovery pipelines
 - 📈 RNA-Seq data analysis automation
 - 🧠 Neural network models for gene classification
-
----
 
 ### ☕ Fun Fact
 
